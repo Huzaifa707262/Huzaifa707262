@@ -11,10 +11,11 @@ Skills & Experience: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB
 - 🌱 I’m currently learning NodeJS 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
+ 
  ![Profile views](https://gpvc.arturio.dev/Huzaifa707262) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Huzaifa707262)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huzaifa-islam-996a29249/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100091188691158)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa707262)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,4 +25,4 @@ Skills & Experience: REACT / JS / HTML / CSS / NODE / EXPRESS / MONGODB
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Huzaifa707262)  
 
- 
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Huzaifa707262)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/huzaifa-islam-996a29249/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100091188691158)  
