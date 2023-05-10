@@ -1,6 +1,7 @@
+![Web Developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/345051351_555759593412526_4508042112951292305_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=vYev8c7JK-YAX84Flki&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfBCkqcFD6yYI_ObM5ttds19s5ZSXUFc3GNfeoFG5y1WZw&oe=64609678)
+
 ### Hi there 👋, I'm Huzaifa
 #### Web Developer
-![Web Developer](https://scontent.fjsr11-1.fna.fbcdn.net/v/t39.30808-6/345051351_555759593412526_4508042112951292305_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=vYev8c7JK-YAX84Flki&_nc_ht=scontent.fjsr11-1.fna&oh=00_AfBCkqcFD6yYI_ObM5ttds19s5ZSXUFc3GNfeoFG5y1WZw&oe=64609678)
 
 I’m a MERN Stack Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as NodeJS.
 
