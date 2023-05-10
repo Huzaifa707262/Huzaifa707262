@@ -8,7 +8,6 @@ I’m a MERN Stack Web developer who is passionate about making error-free websi
 🎯 Skills & Experience:
 
 ✅ Javascript
-
 ✅ ReactJS
 
 ✅ HTML 
@@ -21,12 +20,12 @@ I’m a MERN Stack Web developer who is passionate about making error-free websi
 
 ✅ Mongodb Database
 
-- 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning NodeJS 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+ 🔭 I’m currently working on Upwork 
+ 🌱 I’m currently learning NodeJS 
+ 👯 I’m looking to collaborate on github 
  
-  ![Profile views](https://gpvc.arturio.dev/Huzaifa707262) 
+ 
+ ![Profile views](https://gpvc.arturio.dev/Huzaifa707262) 
 
 
 
