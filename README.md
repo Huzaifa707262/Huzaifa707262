@@ -8,11 +8,17 @@ I’m a MERN Stack Web developer who is passionate about making error-free websi
 🎯 Skills & Experience:
 
 ✅ Javascript
+
 ✅ ReactJS
+
 ✅ HTML 
+
 ✅ CSS 
+
 ✅ NodeJS 
+
 ✅ ExpressJS 
+
 ✅ Mongodb Database
 
 - 🔭 I’m currently working on Upwork 
